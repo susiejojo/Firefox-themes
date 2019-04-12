@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "<purple-beauty>",
+  "theme": {
+    "images": {
+      "headerURL": "pink-purple-sky-and-spring-nature-landscape-header.jpg"
+    },
+    "colors": {
+      "accentcolor": "#8B008B",
+      "textcolor": "white",
+      "button_background_hover": "purple",
+      "ntp_background": "pink-purple-sky-and-spring-nature-landscape-header.jpg",
+     "ntp_text": "white",
+      "icons": "white"
+    }
+  }
+}
